@@ -1,0 +1,40 @@
+.div1 {
+    border: 3px solid;
+    border-color: blue;
+    margin-top: 200px;
+    margin-inline: 27%;
+    width: 176px;
+    padding-inline: 5%;
+    background-color: rgb(103, 96, 96);
+}
+
+h2{
+    border: solid 2px;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.textbox{
+border: none;
+height: 30px;
+border-radius: 40px;
+}
+
+.l1{
+    font-family: sans-serif;
+    color: aliceblue;
+    margin-inline: 27%;
+}
+
+.radiocontainer{
+    display: flex;
+}
+
+.button {
+    color: rgb(237, 237, 243);
+    background-color: rgb(19, 19, 101);
+    height: 35px;
+    width: 166px;
+    margin: 7px;
+    border-radius: 50%;
+}
